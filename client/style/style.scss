@@ -1,0 +1,16 @@
+$light: #ddd;
+$greentext: #008000;
+$textcenter: center;
+$text-large: 40px;
+$light: #ddd;
+$light: #ddd;
+
+
+h2 {
+        color: $light;
+        text-align: $textcenter;
+        font-size: $text-large;
+                span {
+                color: $greentext;        
+                }
+}
